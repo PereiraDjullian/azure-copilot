@@ -1,0 +1,8 @@
+INPUT 1
+Prompt -> Gere uma imagem de um brigadeiro 
+
+INPUT 2
+Prompt -> Uma comida brasileira brigadeiro de chocolate
+
+INPUT 3
+Prompt -> Gere a imagem de um brigadeiro brasileiro
